@@ -1,0 +1,9 @@
+body {
+  background-color: gold;
+}
+
+@media (max-width: 780px) {
+  .hero {
+    background-color: brown;
+  }
+}
